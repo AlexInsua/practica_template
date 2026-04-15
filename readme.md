@@ -264,9 +264,6 @@
 ### Estimación de costes
 > Cálculo aproximado.
 
-### Optimización
-- Rightsizing:
-- Autoscaling:
 
 ### Cost monitoring
 > Herramientas y seguimiento.
