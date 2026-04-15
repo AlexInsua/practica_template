@@ -59,7 +59,7 @@
 ### 3.2 Arquitectura física / infraestructura
 
 #### Cloud provider
-> Ej: AWS, Azure, GCP
+> Ej: AWS
 
 #### Regiones y zonas
 > Especificar ubicación de despliegue.
@@ -71,9 +71,6 @@
 
 #### Balanceadores
 - ALB / NLB:
-
-#### Auto Scaling
-> Estrategia de escalado automático.
 
 ---
 
@@ -234,7 +231,6 @@
 ### 11.2 Estrategia DR
 
 - Backup & Restore
-- Pilot Light
 - Warm Standby
 - Multi-site activo-activo
 
